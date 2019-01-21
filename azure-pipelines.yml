@@ -16,5 +16,5 @@ steps:
     scheme: 'sade'
     sdk: 'iphoneos'
     configuration: 'Release'
-    xcWorkspacePath: 'sade.xcworkspace'
+    xcWorkspacePath: '*/*.xcodeproj/sade.xcworkspace'
     xcodeVersion: 'default' # Options: 8, 9, 10, default, specifyPath
